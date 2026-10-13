@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-Try CyberBot online: **[Open CyberBot](PASTE_YOUR_STREAMLIT_URL_HERE)**
+Try CyberBot online: **[Open CyberBot](https://santhosh012cys-cyberbot-app-l29uel.streamlit.app/)**
 
 ## 👨‍💻 Developer
 
