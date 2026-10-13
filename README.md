@@ -1,3 +1,10 @@
+## 🌐 Live Demo
+
+Try CyberBot online: **[Open CyberBot](PASTE_YOUR_STREAMLIT_URL_HERE)**
+
+## 👨‍💻 Developer
+
+Created as a beginner cybersecurity project using Python and Streamlit.
 # 🔐 CyberBot – Cybersecurity Assistant
 
 A beginner-friendly cybersecurity chatbot built using Python and Streamlit.
